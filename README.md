@@ -1,4 +1,4 @@
-Hi there!
+<h1>Hi there!</h1>
 I'm Jessile Joyce Bonzo, studying Bachelor of Science in Information Technology.
 
 - 🔭 I’m currently working on the Odin project, Udemy courses, and FreeCodeCamp.
