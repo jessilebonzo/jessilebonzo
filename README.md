@@ -12,5 +12,5 @@ Hi there 👋
 -->
   
 <hr/>
-
+Techstack
 [![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,tailwindcss,figma,react,redux,vite,python,cs)](https://skillicons.dev)
