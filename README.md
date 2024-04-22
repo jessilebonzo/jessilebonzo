@@ -1,5 +1,5 @@
-<h3>Hi there!</h3>
-<h4>I'm Jessile Joyce Bonzo, studying a Bachelor of Science in Information Technology.</h4>
+<h2>Hi there!</h2>
+<h3>I'm Jessile Joyce Bonzo, studying a Bachelor of Science in Information Technology.</h3>
 
 - 🔭 I’m currently working on the Odin project, Udemy courses, and FreeCodeCamp.
 - 🌱 I’m currently learning JavaScript at the Odin Project and MernStack at Udemy.
