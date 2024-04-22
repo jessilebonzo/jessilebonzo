@@ -14,3 +14,6 @@
 [![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,tailwindcss,figma,react,redux,bootstrap,npm,vite,wordpress,webflow,unity)](https://skillicons.dev)
 
 <hr/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+
