@@ -13,4 +13,4 @@ Hi there 👋
   
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,tailwindcss,figma,react,redux,vite,python,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,tailwindcss,figma,react,redux,vite,python,cs)](https://skillicons.dev)
