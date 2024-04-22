@@ -10,7 +10,7 @@ Hi there 👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+  <h1>Techstack</h1>
 <hr/>
-Techstack
-[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,tailwindcss,figma,react,redux,vite,python,cs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,tailwindcss,figma,react,redux,bootstrap,npm,vite,python,cs,unity)](https://skillicons.dev)
