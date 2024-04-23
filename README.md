@@ -11,7 +11,7 @@
 <hr/>
 <h3>Techstack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,tailwindcss,figma,react,redux,bootstrap,npm,vite,wordpress,webflow,unity,c#,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,tailwindcss,figma,react,redux,bootstrap,npm,vite,wordpress,webflow,unity,c,py)](https://skillicons.dev)
 
 <hr/>
 
