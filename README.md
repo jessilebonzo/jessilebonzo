@@ -2,7 +2,7 @@
 <h3>I'm Jessile Joyce Bonzo, studying a Bachelor of Science in Information Technology.</h3>
 
 - 🔭 I’m currently working on the Odin project, Udemy courses, and FreeCodeCamp.
-- 🌱 I’m currently learning JavaScript at the Odin Project and MernStack at Udemy.
+- 🌱 I’m currently learning JavaScript and React at the Odin Project and MernStack at Udemy.
 - 👯 I’m looking to collaborate on building projects.
 - 💬 Ask me about tech and books.
 - 📫 How to reach me: linkedin.com/in/jessile-joyce-bonzo.
