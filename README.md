@@ -1,5 +1,5 @@
 <h2>Hi there!</h2>
-<h3>I'm Jessile Joyce Bonzo, a 4th-year Bachelor of Science in Information Technology student at PHINMA University of Pangasinan.</h3>
+<h3> I'm Jessile Joyce Bonzo, a 4th-year Bachelor of Science in Information Technology student at PHINMA University of Pangasinan.</h3>
 
 - 👯 I’m looking to collaborate on building projects.
 - 💬 Ask me about tech and books.
