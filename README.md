@@ -1,7 +1,6 @@
 <h2>Hi there!</h2>
 <h3> I'm Jessile Bonzo</h3>
 
-- 👯 I’m looking to collaborate on building projects.
 - 💬 Ask me about tech and books.
 - 📫 How to reach me: linkedin.com/in/jessile-joyce-bonzo.
 - ⚡ Fun fact: I love to read books on business, self-development, poetry, and novels.
