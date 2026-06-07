@@ -3,9 +3,9 @@
 A Software Engineer passionate about AI, Large Language Models (LLMs), and emerging technologies.
 </h3>
 
-<p align="center">
+<h4 align="center">
 Building projects, exploring new ideas, and continuously learning through technology and community.
-</p>
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessilebonzo&label=Profile%20views&color=0e75b6&style=flat" alt="jessilebonzo" /> </p>
 
@@ -41,7 +41,7 @@ Building projects, exploring new ideas, and continuously learning through techno
 
 <p align="left">
   <li>
-     <a href="mailto:jessilebonzo.dev@gmail.com">jessilebonzo.dev@gmail.com</a>
+        <a href="mailto:jessilebonzo.dev@gmail.com">jessilebonzo.dev@gmail.com</a>
   </li>
 </p>
 
