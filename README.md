@@ -20,9 +20,13 @@ Building projects, exploring new ideas, and continuously learning through techno
    </ul>
 
 <h3> 👨‍💻 All of my projects are available at </h3>
-   <ul>
-    <li> https://jessilebonzo-workportfolio.vercel.app/](https://jessilebonzo-workportfolio.vercel.app/ </li>
-   </ul>
+ <ul>
+  <li>
+    <a href="https://jessilebonzo-workportfolio.vercel.app/" target="_blank">
+      @jessilebonzo
+    </a>
+  </li>
+</ul>
 
 <h3> 💬 Ask me about: </h3>
    <ul>
@@ -33,8 +37,12 @@ Building projects, exploring new ideas, and continuously learning through techno
      <li> Running, and Fitness </li>
    </ul>
 
-<h3> 📫 How to reach me: </h3>
- <h4> jessilebonzo.dev@gmail.com </h4>
+<h3 align="center">📫 How to reach me</h3>
+
+<p align="center">
+  <a href="mailto:jessilebonzo.dev@gmail.com">jessilebonzo.dev@gmail.com</a>
+</p>
+
 
 <h3> ⚡ Fun fact </h3>
    <ul>
