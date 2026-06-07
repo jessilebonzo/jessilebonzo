@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jessile Bonzo </h1>
-<h4 align="center">A Software Engineer passionate about AI, Large Language Models (LLMs), and emerging technologies. I enjoy building projects, exploring new ideas, and using technology to solve real-world problems. I'm also an active member of tech communities, where I continuously learn, connect, and grow.
-</h4>
+<h3 align="center">
+A Software Engineer passionate about AI, Large Language Models (LLMs), and emerging technologies.
+</h3>
+
+<p align="center">
+Building projects, exploring new ideas, and continuously learning through technology and community.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessilebonzo&label=Profile%20views&color=0e75b6&style=flat" alt="jessilebonzo" /> </p>
 
@@ -55,5 +60,9 @@
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,jenkins,figma,bootstrap,unity,jest)](https://skillicons.dev)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessilebonzo&theme=radical" alt="jessilebonzo" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jessilebonzo&theme=tokyonight&hide_border=true" 
+    alt="Jessile Bonzo GitHub Streak"
+    width="850"
+  />
 </p>
