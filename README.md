@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessilebonzo&label=Profile%20views&color=0e75b6&style=flat" alt="jessilebonzo" /> </p>
 
 <h3> 🌱 I’m currently learning </h3>
- - Artificial Intelligence (AI)
- - Large Language Models (LLMs)
- - Prompt Engineering and AI Applications
- - System Design and Software Architecture
- - MCP Tools
- - Python
+ <li> Artificial Intelligence (AI) </li>
+ <li> Large Language Models (LLMs) </li>
+ <li> Prompt Engineering and AI Applications </li>
+ <li> System Design and Software Architecture </li>
+ <li> MCP Tools </li>
+ <li> Python </li>
 
 <h3> 👨‍💻 All of my projects are available at </h3>
- - https://jessilebonzo-workportfolio.vercel.app/](https://jessilebonzo-workportfolio.vercel.app/
+ <li> https://jessilebonzo-workportfolio.vercel.app/](https://jessilebonzo-workportfolio.vercel.app/ </li>
 
 <h3> 💬 Ask me about: </h3>
   - Artificial Intelligence (AI) & Large Language Models (LLMs)
