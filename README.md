@@ -5,31 +5,34 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessilebonzo&label=Profile%20views&color=0e75b6&style=flat" alt="jessilebonzo" /> </p>
 
 <h3> 🌱 I’m currently learning </h3>
-<ul>
-   <li> Artificial Intelligence (AI) </li>
-   <li> Large Language Models (LLMs) </li>
-   <li> Prompt Engineering and AI Applications </li>
-   <li> System Design and Software Architecture </li>
-   <li> MCP Tools </li>
-   <li> Python </li>
-</ul>
+   <ul>
+      <li> Artificial Intelligence (AI) </li>
+      <li> Large Language Models (LLMs) </li>
+      <li> Prompt Engineering and AI Applications </li>
+      <li> System Design and Software Architecture </li>
+      <li> MCP Tools </li>
+      <li> Python </li>
+   </ul>
 
 <h3> 👨‍💻 All of my projects are available at </h3>
-<ul>
- <li> https://jessilebonzo-workportfolio.vercel.app/](https://jessilebonzo-workportfolio.vercel.app/ </li>
-</ul>
+   <ul>
+    <li> https://jessilebonzo-workportfolio.vercel.app/](https://jessilebonzo-workportfolio.vercel.app/ </li>
+   </ul>
 
 <h3> 💬 Ask me about: </h3>
-  - Artificial Intelligence (AI) & Large Language Models (LLMs)
-  - Software Engineering & Web Development
-  - Tech Communities & Developer Events
-  - Books on Self-Development, Business, and Fiction * Running, and Fitness
+   <ul>
+     <li> Artificial Intelligence (AI) & Large Language Models (LLMs) </li>
+     <li> Software Engineering & Web Development </li>
+     <li> Tech Communities & Developer Events </li>
+     <li> Books on Self-Development, Business, and Fiction 
+     <li> Running, and Fitness </li>
+   </ul>
 
 <h3> 📫 How to reach me: </h3>
  <h4> jessilebonzo.dev@gmail.com </h4>
 
 <h3> ⚡ Fun fact </h3>
-  * Outside of technology, I enjoy reading self-development, business, poetry, and fiction books, which help expand my perspective and spark creativity. I also enjoy running and working out to stay active and maintain a balanced lifestyle.*
+  <h4> Outside of technology, I enjoy reading self-development, business, poetry, and fiction books, which help expand my perspective and spark creativity. I also enjoy running and working out to stay active and maintain a balanced lifestyle. </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
