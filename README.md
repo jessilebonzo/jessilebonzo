@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jessile </h1>
-<h3 align="center">A Software Engineer passionate about AI, Large Language Models (LLMs), and emerging technologies. I enjoy building projects, exploring new ideas, and using technology to solve real-world problems. I'm also an active member of tech communities, where I continuously learn, connect, and grow.
-</h3>
+<h4 align="center">A Software Engineer passionate about AI, Large Language Models (LLMs), and emerging technologies. I enjoy building projects, exploring new ideas, and using technology to solve real-world problems. I'm also an active member of tech communities, where I continuously learn, connect, and grow.
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessilebonzo&label=Profile%20views&color=0e75b6&style=flat" alt="jessilebonzo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessilebonzo" alt="jessilebonzo" /></a> </p>
 
 - 🌱 I’m currently learning 
   * Artificial Intelligence (AI)
