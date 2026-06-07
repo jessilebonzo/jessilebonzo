@@ -32,7 +32,9 @@
  <h4> jessilebonzo.dev@gmail.com </h4>
 
 <h3> ⚡ Fun fact </h3>
-  <h4> Outside of technology, I enjoy reading self-development, business, poetry, and fiction books, which help expand my perspective and spark creativity. I also enjoy running and working out to stay active and maintain a balanced lifestyle. </h4>
+   <ul>
+     <li> Outside of technology, I enjoy reading self-development, business, poetry, and fiction books, which help expand my perspective and spark creativity. I also enjoy running and working out to stay active and maintain a balanced lifestyle. </li>
+   </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
