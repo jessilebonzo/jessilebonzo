@@ -40,9 +40,11 @@ Building projects, exploring new ideas, and continuously learning through techno
 <h3 align="left">📫 How to reach me</h3>
 
 <p align="left">
-  <li>
-        <a href="mailto:jessilebonzo.dev@gmail.com">jessilebonzo.dev@gmail.com</a>
-  </li>
+   <ul>
+     <li>
+         <a href="mailto:jessilebonzo.dev@gmail.com">jessilebonzo.dev@gmail.com</a>
+     </li>
+   </ul>
 </p>
 
 
