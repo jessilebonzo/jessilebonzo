@@ -52,7 +52,8 @@
 
 ### Tools & Others
 
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,jenkins,figma,bootstrap,unity)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,jenkins,figma,bootstrap,unity,jest)](https://skillicons.dev)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessilebonzo&" alt="jessilebonzo" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessilebonzo&theme=radical" alt="jessilebonzo" />
+</p>
