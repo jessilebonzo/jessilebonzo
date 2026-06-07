@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jessile Bonzo </h1>
 <h3 align="center">
-A Software Engineer passionate about AI, Large Language Models (LLMs), and emerging technologies.
+   A Software Engineer passionate about AI, Large Language Models (LLMs), and emerging technologies.
 </h3>
 
 <h4 align="center">
