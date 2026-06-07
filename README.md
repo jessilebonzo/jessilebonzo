@@ -22,8 +22,8 @@ Building projects, exploring new ideas, and continuously learning through techno
 <h3> 👨‍💻 All of my projects are available at </h3>
  <ul>
   <li>
-    <a href="https://jessilebonzo-workportfolio.vercel.app/" target="_blank">
-      @jessilebonzo
+      <a href="https://jessilebonzo-workportfolio.vercel.app/" target="_blank">
+         @jessilebonzo
     </a>
   </li>
 </ul>
@@ -40,7 +40,7 @@ Building projects, exploring new ideas, and continuously learning through techno
 <h3 align="left">📫 How to reach me</h3>
 
 <p align="left">
-  <a href="mailto:jessilebonzo.dev@gmail.com">jessilebonzo.dev@gmail.com</a>
+     <a href="mailto:jessilebonzo.dev@gmail.com">jessilebonzo.dev@gmail.com</a>
 </p>
 
 
@@ -71,7 +71,7 @@ Building projects, exploring new ideas, and continuously learning through techno
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=jessilebonzo&theme=tokyonight&hide_border=true" 
     alt="Jessile Bonzo GitHub Streak"
-    width="1100"
+    width="900"
   />
 </p>
 
