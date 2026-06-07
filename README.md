@@ -43,7 +43,8 @@
 </p>
 
 <h3 align="left">Techstack:</h3>
-[![My Skills](https://skillicons.dev/icons?i=git,js,ts,html,css,tailwindcss,figma,react,redux,vite,python,cs)](https://skillicons.dev)
+<h4> [![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,tailwind,bootstrap,nodejs,php,laravel,py,mongodb,mysql,redis,docker,jenkins,linux,git,figma,unity\&perline=11)](https://skillicons.dev)
+</h4>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessilebonzo&" alt="jessilebonzo" /></p>
