@@ -42,10 +42,17 @@
 <a href="https://www.leetcode.com/jessilebonzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jessilebonzo" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Techstack:</h3>
-<h3 align="left">Languages and Tools:</h3>
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,tailwind&perline=8)](https://skillicons.dev)
-[![Backend](https://skillicons.dev/icons?i=nodejs,php,laravel,py,mongodb,mysql,redis,docker&perline=8)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,jenkins,figma,bootstrap,unity&perline=7)](https://skillicons.dev)
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,tailwind)](https://skillicons.dev)
+
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,php,laravel,py,mongodb,mysql,redis,docker)](https://skillicons.dev)
+
+### Tools & Others
+
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,jenkins,figma,bootstrap,unity)](https://skillicons.dev)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessilebonzo&" alt="jessilebonzo" /></p>
