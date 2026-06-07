@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jessile </h1>
+<h1 align="center">Hi 👋, I'm Jessile Bonzo </h1>
 <h4 align="center">A Software Engineer passionate about AI, Large Language Models (LLMs), and emerging technologies. I enjoy building projects, exploring new ideas, and using technology to solve real-world problems. I'm also an active member of tech communities, where I continuously learn, connect, and grow.
 </h4>
 
