@@ -43,5 +43,6 @@
 </p>
 
 <h3 align="left">Techstack:</h3>
+![My Skills](https://skillicons.dev/icons?i=git,html,css,js,ts,bootstrap,tailwind,react,redux,vite,vue,nodejs,php,laravel,python,mongodb,mysql,redis,docker,jenkins,linux,figma,unity&perline=8)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessilebonzo&" alt="jessilebonzo" /></p>
