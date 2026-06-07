@@ -37,9 +37,9 @@ Building projects, exploring new ideas, and continuously learning through techno
      <li> Running, and Fitness </li>
    </ul>
 
-<h3 align="center">📫 How to reach me</h3>
+<h3 align="left">📫 How to reach me</h3>
 
-<p align="center">
+<p align="left">
   <a href="mailto:jessilebonzo.dev@gmail.com">jessilebonzo.dev@gmail.com</a>
 </p>
 
@@ -71,6 +71,7 @@ Building projects, exploring new ideas, and continuously learning through techno
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=jessilebonzo&theme=tokyonight&hide_border=true" 
     alt="Jessile Bonzo GitHub Streak"
-    width="850"
+    width="1100"
   />
 </p>
+
