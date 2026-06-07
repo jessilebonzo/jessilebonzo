@@ -21,7 +21,8 @@
   * Tech Communities & Developer Events
   * Books on Self-Development, Business, and Fiction * Running, and Fitness
 
-- <h3> 📫 How to reach me: jessilebonzo.dev@gmail.com </h3>
+- <h3> 📫 How to reach me: </h3>
+ <h4> jessilebonzo.dev@gmail.com </h4>
 
 - <h3> ⚡ Fun fact </h3>
   * Outside of technology, I enjoy reading self-development, business, poetry, and fiction books, which help expand my perspective and spark creativity. I also enjoy running and working out to stay active and maintain a balanced lifestyle.*
