@@ -5,15 +5,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessilebonzo" alt="jessilebonzo" /></a> </p>
 
-- 🌱 I’m currently learning *** Artificial Intelligence (AI) and Large Language Models (LLMs) * Prompt Engineering and AI Applications * System Design and Software Architecture * Python * MCP Tools**
+- 🌱 I’m currently learning 
+  * Artificial Intelligence (AI)
+  * Large Language Models (LLMs)
+  * Prompt Engineering and AI Applications
+  * System Design and Software Architecture
+  * MCP Tools
+  * Python
 
 - 👨‍💻 All of my projects are available at [https://jessilebonzo-workportfolio.vercel.app/](https://jessilebonzo-workportfolio.vercel.app/)
 
-- 💬 Ask me about *** Artificial Intelligence (AI) & Large Language Models (LLMs) * Software Engineering & Web Development * Tech Communities & Developer Events * Continuous Learning & Career Growth in Tech * Books on Self-Development, Business, and Fiction * Running, Fitness, and Building Habits**
+- 💬 Ask me about:
+  * Artificial Intelligence (AI) & Large Language Models (LLMs)
+  * Software Engineering & Web Development
+  * Tech Communities & Developer Events
+  * Books on Self-Development, Business, and Fiction * Running, and Fitness
 
 - 📫 How to reach me **https://www.linkedin.com/in/jessile-joyce-bonzo**
 
-- ⚡ Fun fact **Outside of technology, I enjoy reading self-development, business, poetry, and fiction books, which help expand my perspective and spark creativity. I also enjoy running and working out to stay active and maintain a balanced lifestyle.**
+- ⚡ Fun fact
+  * Outside of technology, I enjoy reading self-development, business, poetry, and fiction books, which help expand my perspective and spark creativity. I also enjoy running and working out to stay active and maintain a balanced lifestyle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
