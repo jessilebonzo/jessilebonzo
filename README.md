@@ -13,7 +13,7 @@
   * Python
 
 - <h3> 👨‍💻 All of my projects are available at </h3>
-  ([https://jessilebonzo-workportfolio.vercel.app/](https://jessilebonzo-workportfolio.vercel.app/)
+  (https://jessilebonzo-workportfolio.vercel.app/](https://jessilebonzo-workportfolio.vercel.app/)
 
 - <h3> 💬 Ask me about: </h3>
   * Artificial Intelligence (AI) & Large Language Models (LLMs)
