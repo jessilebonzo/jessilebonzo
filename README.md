@@ -13,9 +13,7 @@ Building projects, exploring new ideas, and continuously learning through techno
    <ul>
       <li> Artificial Intelligence (AI) </li>
       <li> Large Language Models (LLMs) </li>
-      <li> Prompt Engineering and AI Applications </li>
       <li> System Design and Software Architecture </li>
-      <li> MCP Tools </li>
       <li> Python </li>
    </ul>
 
